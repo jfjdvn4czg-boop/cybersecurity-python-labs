@@ -1,0 +1,6 @@
+host,port,status,response_time_ms,details
+127.0.0.1,8000,ONLINE,1.75,З'єднання встановлено
+127.0.0.1,8001,OFFLINE,0.09,[Errno 61] Connection refused
+127.0.0.1,8002,OFFLINE,0.06,[Errno 61] Connection refused
+127.0.0.1,8003,OFFLINE,0.05,[Errno 61] Connection refused
+127.0.0.1,8004,OFFLINE,0.05,[Errno 61] Connection refused
